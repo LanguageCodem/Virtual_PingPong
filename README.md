@@ -1,6 +1,7 @@
 # Virtual_PingPong
 
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/ossf/scorecard/badge)](https://securityscorecards.dev/viewer/?uri=github.com/ossf/scorecard)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/5621/badge)](https://www.bestpractices.dev/projects/5621)
 
 Welcome to the Ping Pong game! This simple yet engaging game is developed in C++. Although it's currently a work in progress and lacks features like AI and multiplayer mode, it's functional and ready for you to enjoy a basic version of the classic game.
 
