@@ -1,5 +1,6 @@
 # Virtual_PingPong
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{LanguageCodem}/{[repo](https://github.com/LanguageCodem/Virtual_PingPong.git)}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{LanguageCodem}/{https://github.com/LanguageCodem/Virtual_PingPong.git})
+
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/5621/badge)](https://www.bestpractices.dev/projects/5621)
 
 
