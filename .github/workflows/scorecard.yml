@@ -16,6 +16,7 @@ on:
 
 # Declare default permissions as read only.
 permissions: read-all
+id-token: write
 
 jobs:
   analysis:
