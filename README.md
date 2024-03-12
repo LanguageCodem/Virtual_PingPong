@@ -39,7 +39,7 @@ AI Player
 Multiplayer Mode
 - Adding support for two-player mode where players can compete against each other.
 - Each player will control their own paddle using separate input controls.
-- 
+
 Contributions
 
 Contributions to the project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
